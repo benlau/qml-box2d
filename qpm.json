@@ -16,7 +16,7 @@
   },
   "dependencies": [
   ],
-  "license": "NONE",
+  "license": "MIT",
   "pri_filename": "box2d-static.pri",
   "webpage": ""
 }
