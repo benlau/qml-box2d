@@ -18,3 +18,6 @@
 include(box2d_lib.pri)
 
 DEFINES += STATIC_PLUGIN_BOX2D
+
+SOURCES += \
+    $$PWD/box2dstatic.cpp
